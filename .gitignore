@@ -1,0 +1,14 @@
+# Dependencies
+node_modules
+yarn.lock
+
+# Database
+db/app.db
+db/test.db
+
+# Environment
+.env.local
+.env.test
+
+# Build
+build
